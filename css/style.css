@@ -204,7 +204,9 @@ h6, .h6 {
 
 p {
   margin-top: 0;
-  margin-bottom: 1rem; }
+  margin-bottom: 1rem; 
+  width:100%;
+}
 
 abbr[title],
 abbr[data-bs-original-title] {
@@ -8082,7 +8084,9 @@ img {
   vertical-align: middle; }
 
 li {
-  list-style: none; }
+  list-style: none;
+  margin-top: 12px; 
+}
 
 a {
   text-decoration: none;
@@ -15261,15 +15265,11 @@ ul a.rsswidget {
     margin-bottom: 0; }
 
 .icon-bx-wraper.style-2 {
-  box-shadow: 0px 25px 50px rgba(28, 46, 158, 0.3);
   height: 100%;
   border-radius: 10px;
   padding: 32px 30px;
   background-color: var(--secondary);
-  display: flex;
-  -webkit-transition: all 0.8s;
-  -ms-transition: all 0.8s;
-  transition: all 0.8s; }
+  display: flex; }
   .icon-bx-wraper.style-2 .title {
     font-size: 24px;
     margin-bottom: 12px;
@@ -16362,7 +16362,7 @@ ul a.rsswidget {
   margin-right: -65px;
   border-radius: 20px;
   background-color: #fff;
-  box-shadow: 0px 30px 45px rgba(28, 46, 158, 0.15); }
+ }
   .form-wrapper-box.style-1 .section-head {
     margin-bottom: 30px; }
     .form-wrapper-box.style-1 .section-head .title {
@@ -16397,16 +16397,21 @@ ul a.rsswidget {
         font-size: 15px; } }
   .form-wrapper-box.style-1 .form-wrapper {
     display: flex;
-    align-items: center; }
+    align-items: center;
+    justify-content: space-around
+  }
     .form-wrapper-box.style-1 .form-wrapper .flex-1 {
       flex: 1;
       padding-right: 15px;
       position: relative;
       z-index: 2; }
     .form-wrapper-box.style-1 .form-wrapper .btn {
-      font-size: 18px;
-      font-weight: 500;
-      padding: 15px 60px; }
+      
+font-size: 18px;
+font-weight: 500;
+padding: 15px 0px;
+height: 60px;
+width: 250px; }
       @media only screen and (max-width: 575px) {
         .form-wrapper-box.style-1 .form-wrapper .btn {
           font-size: 16px; } }
@@ -18753,7 +18758,7 @@ pre {
   background: #fff;
   margin: 0 auto;
   padding: 10px 17px;
-  -webkit-box-shadow: 2px 2px 3px -1px rgba(0,0,0,0.35);
+  border-radius: 20px;
 }
 
 #keywords {
@@ -18802,3 +18807,12 @@ pre {
 }
 
 /*# sourceMappingURL=style.map.css/style.css.map */
+.wrapper h2{
+  text-align: center;
+}
+.accountTable{
+  width:100%;
+}
+.text-align{
+margin-left:27px;
+}
