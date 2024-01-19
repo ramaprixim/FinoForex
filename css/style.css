@@ -8080,7 +8080,7 @@ ul {
 img {
   border-style: none;
   height: auto;
-  max-width: 100%;
+  max-width: 50%;
   vertical-align: middle; }
 
 li {
@@ -15337,8 +15337,8 @@ ul a.rsswidget {
     transition: all 0.8s; }
   .icon-bx-wraper.style-3 .icon-media {
     position: relative;
-    width: 142px;
-    height: 142px;
+    width: 100px;
+    height: 100px;
     margin: -35px auto 25px;
     display: flex;
     align-items: center;
