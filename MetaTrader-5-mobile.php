@@ -3,6 +3,13 @@
 
 <!-- Header -->
 
+<style>
+    .form-wrapper-box.style-1{
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+    }
+</style>
+
 
 <!-- Page Content Start -->
 <div class="page-content">
