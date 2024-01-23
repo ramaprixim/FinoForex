@@ -109,11 +109,6 @@
                                 <li><a href="technical-analysis.php">Technical Analysis</a></li>
                                 <li><a href="fundamental-analysis.php">Fundamental Analysis</a></li>
                                 <li><a href="forex-trading.php">Forex Trading</a></li>
-                                <li><a href="cfd-trading.php">CFD Trading</a></li>
-                                <li><a href="metals-trading.php">Metals Trading</a></li>
-                                <li><a href="commodities.php">Commodities</a></li>
-                                <li><a href="futures.php">Futures</a></li>
-                                <li><a href="oil-trading.php">Oil Trading</a></li>
                                 <li><a href="expert-advisors.php">Expert Advisors</a></li>
                             </ul>
                         </li>

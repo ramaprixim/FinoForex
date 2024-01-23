@@ -67,11 +67,11 @@
 
 		</div>
 		<!-- Footer Bottom Part -->
-		<div class="footer-bottom text-center">
+		<!-- <div class="footer-bottom text-center">
 			<div class="container">
 				<span class="copyright-text">Copyright © 2022 <a href="https://dexignzone.com/" target="_blank">DexignZone</a>. All rights reserved.</span>
 			</div>
-		</div>
+		</div> -->
 	</footer>
 	<!-- Footer End -->
 
