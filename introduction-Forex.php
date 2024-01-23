@@ -16,8 +16,8 @@
     <div class="dz-bnr-inr style-1 text-center">
         <div class="container">
             <div class="dz-bnr-inr-entry">
-                <h1>Embark on Your Forex Journey with FinoForex</h1>
-                <p class="text">An Introduction to Currency Trading</p>
+                <h1>Forex </h1>
+                <p class="text">Transfer USD, EUR, or Crypto and start trading today!</p>
                 <!-- Breadcrumb Row -->
                 <nav aria-label="breadcrumb" class="breadcrumb-row">
                     <ul class="breadcrumb">
@@ -35,7 +35,7 @@
     </div>
 </div>
 
-<section class="welcome-section" style="padding-bottom:40px;padding-top: 80px;">
+<section class="welcome-section" style="padding-bottom:80px;padding-top: 80px;">
     <div class="container">
         <div class="row clearfix">
             <!--Content Column-->
@@ -43,7 +43,8 @@
                 <div class="inner-column">
                     <!--Sec Title-->
                     <div class="sec-title" style="padding-bottom: 15px;">
-                        <h4 style="font-size: 2rem;">Introduction</h4>
+                        <h2>Embark On Your Forex Journey With FinoForex</h2>
+                        <h5>An Introduction to Currency Trading<h5>
                     </div>
                     <p class="list-style arrow">
                         Welcome to the world of forex trading, where Technical Analysis serves as the essential
@@ -69,11 +70,11 @@
     </div>
 </section>
 
-<section class="content-inner bg-light icon-section section-wrapper2">
-    <div class="container">
+<section class="content-inner bg-light icon-section section-wrapper2" >
+    <div class="container" style="padding-top:75px;">
         <div class="section-head text-center">
         </div>
-        <div class="row sp60">
+        <div class="row sp60" >
             <div class="col-xl-4 col-md-6 m-b60 wow fadeInUp" data-wow-delay="0.2s"
                 style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                 <div class="icon-bx-wraper style-3 text-center">

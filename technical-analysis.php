@@ -44,7 +44,8 @@
                 <div class="inner-column">
                     <!--Sec Title-->
                     <div class="sec-title" style="padding-bottom: 15px;">
-                        <h4 style="font-size: 2rem;">Introduction</h4>
+                        <h2>Guide to Technical Analysis in Forex Trading</h2>
+                        <h5>Mastering Market Movements<h5>
                     </div>
                     <p class="list-style arrow">
                         Welcome to the world of forex trading, where Technical Analysis serves as the essential

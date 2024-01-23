@@ -99,6 +99,7 @@
                                 <li><a href="MetaTrader-5-Windows.php">MetaTrader 5(Windows)</a></li>
                                 <li><a href="MetaTrader-5-mobile.php">MetaTrader 5(Mobile)</a></li>
                                 <li><a href="economic-calander.php">Economic Calender</a></li>
+                                <li><a href="economic-calculator.php">Economic Calculator</a></li>
                             </ul>
                         </li>
                         <li class="sub-menu-down"><a href="javascript:void(0);">EDUCATION</a>

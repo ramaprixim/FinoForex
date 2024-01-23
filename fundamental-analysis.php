@@ -17,7 +17,7 @@
     <div class="dz-bnr-inr style-1 text-center">
         <div class="container">
             <div class="dz-bnr-inr-entry">
-                <h1>Fundamental Analysis in Forex Trading</h1>
+                <h1>Fundamental Analysis</h1>
                 <p class="text">Uncover the Factors Influencing Currency Values.</p>
                 <!-- Breadcrumb Row -->
                 <nav aria-label="breadcrumb" class="breadcrumb-row">
@@ -44,7 +44,8 @@
                 <div class="inner-column">
                     <!--Sec Title-->
                     <div class="sec-title" style="padding-bottom: 15px;">
-                        <h4 style="font-size: 2rem;">Introduction</h4>
+                        <h2>Fundamental Analysis in Forex Trading</h2>
+                        <h5>Uncover the Factors Influencing Currency Values.<h5>
                     </div>
                     <p class="list-style arrow">
                         Welcome to the world of forex trading, where Technical Analysis serves as the essential

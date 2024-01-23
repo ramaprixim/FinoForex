@@ -4,11 +4,10 @@
 <!-- Header -->
 
 <style>
-
-.content-inner{
-    padding-top: 20px;
-    padding-bottom: 20px;
-} 
+    .content-inner {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
 </style>
 
 <!-- Page Content Start -->
@@ -43,19 +42,21 @@
                 <div class="inner-column">
                     <!--Sec Title-->
                     <div class="sec-title" style="padding-bottom: 15px;">
-                        <h4 style="font-size: 2rem;">Introduction</h4>
+                        <h2>Navigating CFD Trading Excellence with FinoForex</h2>
+                        <h5>Unlock the World of Contract for Difference (CFD) Trading for Optimal Returns</h5>
                     </div>
                     <p class="list-style arrow">
-                        Welcome to the world of forex trading, where Technical Analysis serves as the essential
-                        framework for understanding price movements. This analytical approach allows traders to navigate
-                        the dynamic market by studying historical price data to gauge current conditions and anticipate
-                        potential future price movements. The core principle underlying technical analysis is the belief
-                        that all relevant market information is encapsulated in price, making price action the key
-                        element for making informed trading decisions.
+                        Embark on the world of CFD (Contract for Difference) trading with FinoForex, where we unravel
+                        the intricacies of this agreement between traders and providers. Explore how CFD trading allows
+                        you to benefit from price performance and dividends without actual ownership.
+                    </p>
+                    <p class="list-style arrow">
+                        Discover the mechanics of CFD trading as a contract between a trader and a broker, deriving its
+                        value from an underlying security. Learn the advantages, such as trading on margin to access
+                        stock, index, or commodity movements without the need for the full amount upfront.
                     </p>
                 </div>
             </div>
-
             <!--Image Column-->
             <div class="image-column col-lg-6 col-md-12 col-sm-12">
                 <div class="inner-column">
@@ -71,7 +72,56 @@
 
 <section class="content-inner bg-light icon-section section-wrapper2">
     <div class="container">
+
         <div class="section-head text-center">
+        </div>
+        <div class="row">
+            <h2 class="text-center" style="margin-bottom: 28px;">How CFD Trading Works</h2>
+            <div class="col-lg-6 m-b30">
+                <div class="icon-bx-wraper style-2">
+                    <div class="icon-content">
+                        <h4 class="title">Trading on Margin</h4>
+                        <p> Invest a small percentage of the actual price, allowing you to access the underlying asset's
+                            movements without the need for the full amount.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 m-b30">
+                <div class="icon-bx-wraper style-2">
+                    <div class="icon-content">
+                        <h4 class="title">Margin and Additional Funds</h4>
+                        <p>Understand the role of margin, and be aware of the need for additional funds if the position
+                            moves against you.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 m-b30">
+                <div class="icon-bx-wraper style-2">
+                    <div class="icon-content">
+                        <h4 class="title">Risk and Reward</h4>
+                        <p> Explore the opportunity for larger returns on your investment, recognizing that losses are
+                            magnified in the same way as profits.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 m-b30">
+                <div class="icon-bx-wraper style-2">
+                    <div class="icon-content">
+                        <h4 class="title">Transparent Fee Structure</h4>
+                        <p>Benefit from a transparent fee structure, allowing you to calculate and understand the costs
+                            associated with margin trading, ensuring clarity in your financial transactions.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img class="bg-shape1" src="images/home-banner/shape1.png" alt="">
+</section>
+
+<section class="content-inner bg-light icon-section section-wrapper2">
+    <div class="container">
+        <div class="section-head text-center">
+            <h2>What We Do for You</h2>
         </div>
         <div class="row sp60">
             <div class="col-xl-4 col-md-6 m-b60 wow fadeInUp" data-wow-delay="0.2s"
@@ -81,9 +131,8 @@
                         <img src="images/icons/icon9.svg" alt="">
                     </div>
                     <div class="icon-content">
-                        <h4 class="title">Unlocking Price Movements</h4>
-                        <p class="m-b0">Explore how historical price data reflects all relevant market information,
-                            making price action a crucial factor for traders.</p>
+                        <h4 class="title">Trade Major Market Indices</h4>
+                        <p class="m-b0">Access 12 of the world's largest Equity Indices in one simple click.</p>
                     </div>
                 </div>
             </div>
@@ -94,9 +143,8 @@
                         <img src="images/icons/icon10.svg" alt="">
                     </div>
                     <div class="icon-content">
-                        <h4 class="title">Trade Ideas Rooted in History</h4>
-                        <p class="m-b0">Follow our experts as they explore patterns formed in the past, offering
-                            valuable trade ideas based on historical market behavior.</p>
+                        <h4 class="title">Go Long or Short</h4>
+                        <p class="m-b0">Enjoy the flexibility to go long or short based on market conditions.</p>
                     </div>
                 </div>
             </div>
@@ -107,50 +155,45 @@
                         <img src="images/icons/icon11.svg" alt="">
                     </div>
                     <div class="icon-content">
-                        <h4 class="title">The Power of Chart Analysis</h4>
-                        <p class="m-b0">Discover the strength of chart analysis at FinoForex, where visual
-                            representations guide traders in spotting trends and lucrative opportunities.</p>
+                        <h4 class="title">Minimal Transaction Costs</h4>
+                        <p class="m-b0">Experience minimal transaction costs for efficient trading.</p>
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4 col-md-6 m-b60 wow fadeInUp" data-wow-delay="0.8s"
-                style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
+            <div class="col-xl-4 col-md-6 m-b60 wow fadeInUp" data-wow-delay="0.6s"
+                style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
                 <div class="icon-bx-wraper style-3 text-center">
                     <div class="icon-media">
-                        <img src="images/icons/icon12.svg" alt="">
+                        <img src="images/icons/icon11.svg" alt="">
                     </div>
                     <div class="icon-content">
-                        <h4 class="title">Expertise Meets Subjectivity</h4>
-                        <p class="m-b0">Recognize the subjective nature of technical analysis, where two individuals may
-                            interpret the same data differently.</p>
+                        <h4 class="title">Hedging Portfolio Exposure</h4>
+                        <p class="m-b0">Utilize CFD trading to hedge your portfolio exposure effectively.</p>
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4 col-md-6 m-b60 wow fadeInUp" data-wow-delay="1.0s"
-                style="visibility: visible; animation-delay: 1s; animation-name: fadeInUp;">
+            <div class="col-xl-4 col-md-6 m-b60 wow fadeInUp" data-wow-delay="0.6s"
+                style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
                 <div class="icon-bx-wraper style-3 text-center">
                     <div class="icon-media">
-                        <img src="images/icons/icon13.svg" alt="">
+                        <img src="images/icons/icon11.svg" alt="">
                     </div>
                     <div class="icon-content">
-                        <h4 class="title">Nuances of Market Interpretation
-                        </h4>
-                        <p class="m-b0">Navigate the nuanced landscape of market interpretation, understanding how
-                            traders employ diverse strategies based on technical analysis.</p>
+                        <h4 class="title">Flexible Lot Size</h4>
+                        <p class="m-b0">Trade with a flexible lot size that suits your investment strategy.</p>
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4 col-md-6 m-b60 wow fadeInUp" data-wow-delay="1.0s"
-                style="visibility: visible; animation-delay: 1s; animation-name: fadeInUp;">
+            <div class="col-xl-4 col-md-6 m-b60 wow fadeInUp" data-wow-delay="0.6s"
+                style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
                 <div class="icon-bx-wraper style-3 text-center">
                     <div class="icon-media">
-                        <img src="images/icons/icon13.svg" alt="">
+                        <img src="images/icons/icon11.svg" alt="">
                     </div>
                     <div class="icon-content">
-                        <h4 class="title">Dynamic Trading Strategies
-                        </h4>
-                        <p class="m-b0">Explore the dynamic strategies crafted by traders at FinoForex, where technical
-                            analysis becomes a cornerstone for adapting to ever-changing market conditions.</p>
+                        <h4 class="title">Fixed Spreads</h4>
+                        <p class="m-b0">Benefit from fixed spreads under any market condition for predictable trading.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -165,10 +208,10 @@
             <div class="col-xl-12 col-md-6 m-b60 wow fadeInUp" data-wow-delay="0.8s">
                 <div class="icon-bx-wraper style-3">
                     <div class="icon-content text-center">
-                        <p class="m-b0">Explore the nuances of technical analysis with FinoForex, your partner in
-                            understanding price movements, historical patterns, and the art of making profitable trading
-                            decisions. Join us in the fascinating journey of decoding charts and leveraging the power of
-                            technical analysis to elevate your forex trading experience.
+                        <p class="m-b0">Explore the world of CFD trading with FinoForex, your partner in optimizing
+                            returns through informed strategies. Trade major market indices, go long or short, and hedge
+                            your portfolio exposure with confidence. Unleash the potential of CFD trading with
+                            FinoForex's support and knowledge base.
                         </p>
                     </div>
                 </div>
