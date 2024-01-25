@@ -13,7 +13,7 @@
         <div class="container">
             <div class="dz-bnr-inr-entry">
                 <h1>Compare Account Types</h1>
-                <p class="text">Transfer USD, EUR, or Crypto and start trading today!</p>
+                <p class="text">Your Path to Financial Success with Transparent and Competitive Plans.</p>
                 <!-- Breadcrumb Row -->
                 <nav aria-label="breadcrumb" class="breadcrumb-row">
                     <ul class="breadcrumb">
@@ -92,7 +92,7 @@
 								</ul>
 							</div>
 							<div class="pricingtable-footer">
-								<a href="contact-us.html" class="btn">BUY</a>
+								<a href="contactus.php" class="btn">BUY</a>
 							</div>
 						</div>
 					</div>
@@ -143,7 +143,7 @@
 								</ul>
 							</div>
 							<div class="pricingtable-footer">
-								<a href="contact-us.html" class="btn">BUY</a>
+								<a href="contactus.php" class="btn">BUY</a>
 							</div>
 						</div>
 					</div>
@@ -194,7 +194,7 @@
 								</ul>
 							</div>
 							<div class="pricingtable-footer">
-								<a href="contact-us.html" class="btn">BUY</a>
+								<a href="contactus.php" class="btn">BUY</a>
 							</div>
 						</div>
 					</div>
@@ -245,7 +245,7 @@
 								</ul>
 							</div>
 							<div class="pricingtable-footer">
-								<a href="contact-us.html" class="btn">BUY</a>
+								<a href="contactus.php" class="btn">BUY</a>
 							</div>
 						</div>
 					</div>

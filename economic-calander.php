@@ -10,7 +10,8 @@
         <div class="container">
             <div class="dz-bnr-inr-entry">
                 <h1>Economic Calander</h1>
-                <p class="text">Transfer USD, EUR, or Crypto and start trading today!</p>
+                <p class="text">Economic Insights for Every Trader
+</p>
                 <!-- Breadcrumb Row -->
                 <nav aria-label="breadcrumb" class="breadcrumb-row">
                     <ul class="breadcrumb">
@@ -31,6 +32,7 @@
 <!-- TradingView Widget BEGIN -->
 <section style="margin-top: 60px; margin-bottom: 40px;">
     <div class="container">
+        <h2 style="text-align:center">Economic Calender</h2>
         <div class="tradingview-widget-container">
             <div class="tradingview-widget-container__widget"></div>
             <div class="tradingview-widget-copyright"><a href="https://in.tradingview.com/" rel="noopener nofollow"

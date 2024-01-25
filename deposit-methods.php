@@ -17,7 +17,7 @@
         <div class="container">
             <div class="dz-bnr-inr-entry">
                 <h1>Deposit Funds</h1>
-                <p class="text">Transfer USD, EUR, or Crypto and start trading today!</p>
+                <p class="text">Streamline Your Trading with FinoForex Deposit Options</p>
                 <!-- Breadcrumb Row -->
                 <nav aria-label="breadcrumb" class="breadcrumb-row">
                     <ul class="breadcrumb">

@@ -4,11 +4,10 @@
 <!-- Header -->
 
 <style>
-
-    .content-inner{
-        padding-top: 20px;
+    .content-inner {
+        padding-top: 70px;
         padding-bottom: 20px;
-    } 
+    }
 </style>
 
 
@@ -36,7 +35,7 @@
     </div>
 </div>
 
-<section class="welcome-section" style="padding-bottom:40px;padding-top: 80px;">
+<section class="welcome-section" style="padding-bottom:80px;padding-top: 80px;">
     <div class="container">
         <div class="row clearfix">
             <!--Content Column-->
@@ -45,7 +44,7 @@
                     <!--Sec Title-->
                     <div class="sec-title" style="padding-bottom: 15px;">
                         <h2>Fundamental Analysis in Forex Trading</h2>
-                        <h5>Uncover the Factors Influencing Currency Values.<h5>
+
                     </div>
                     <p class="list-style arrow">
                         Welcome to the world of forex trading, where Technical Analysis serves as the essential
@@ -161,16 +160,17 @@
     <img class="bg-shape1" src="images/home-banner/shape1.png" alt="">
 </section>
 
+
 <section class="content-inner bg-light icon-section section-wrapper2">
     <div class="container">
         <div class="row">
             <div class="col-xl-12 col-md-6 m-b60 wow fadeInUp" data-wow-delay="0.8s">
                 <div class="icon-bx-wraper style-3">
                     <div class="icon-content text-center">
-                        <p class="m-b0">Explore the nuances of technical analysis with FinoForex, your partner in
-                            understanding price movements, historical patterns, and the art of making profitable trading
-                            decisions. Join us in the fascinating journey of decoding charts and leveraging the power of
-                            technical analysis to elevate your forex trading experience.
+                        <p class="m-b0">Now you know the basics of fundamental analysis with FinoForex. Understanding
+                            the factors influencing the forex market is the first step towards confident trading. As you
+                            continue your trading journey, remember, understanding these factors is your ticket to
+                            making strategic moves in the dynamic world of forex.
                         </p>
                     </div>
                 </div>
@@ -179,6 +179,5 @@
     </div>
     <img class="bg-shape1" src="images/home-banner/shape1.png" alt="">
 </section>
-
 <!-- Footer -->
 <?php include("includes/footer.php"); ?>

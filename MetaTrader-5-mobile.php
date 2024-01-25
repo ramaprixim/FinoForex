@@ -16,7 +16,7 @@
     <div class="dz-bnr-inr style-1 text-center">
         <div class="container">
             <div class="dz-bnr-inr-entry">
-                <h1>FinoForex's Mobile Trading</h1>
+                <h1>MetaTrader5 Mobile</h1>
                 <p class="text">Your Anytime, Anywhere Forex Solution!</p>
                 <!-- Breadcrumb Row -->
                 <nav aria-label="breadcrumb" class="breadcrumb-row">
@@ -65,7 +65,7 @@
         </div>
 
         <div class="row">
-            <h2 class="text-center" style="margin-bottom: 40px;">Benefits of Mobile Platforms:</h2>
+            <h2 class="text-center" style="margin-bottom: 40px;">Benefits of Mobile Platforms</h2>
             <div class="col-lg-6 m-b30">
                 <div class="icon-bx-wraper style-2">
                     <div class="icon-content">
@@ -101,19 +101,6 @@
                 </div>
             </div>
         </div>
-
-        <div class="row">
-            <div class="col-xl-12 col-md-6 m-b60">
-                <div class="icon-bx-wraper">
-                    <div class="icon-content text-center">
-                        <p class="m-b0">Don't miss a trade – harness the power of FinoForex's mobile trading platform to
-                            stay connected with the markets and take control of your trading journey. Join us today and
-                            experience trading freedom like never before!</p>
-
-                    </div>
-                </div>
-            </div>
-        </div>
     </div>
 </section>
 
@@ -123,8 +110,8 @@
             <h4 class="title m-t0">Download MT5 on Your Mobile Device or Tablet</h4>
         </div>
             <div class="form-wrapper">
-                <button type="submit" class="btn btn-lg btn-gradient btn-primary btn-shadow">Android</button>
-                <button type="submit" class="btn btn-lg btn-gradient btn-primary btn-shadow">IOs</button>
+                <a type="submit" href="contactus.php" class="btn btn-lg btn-gradient btn-primary btn-shadow">Android</a>
+                <a type="submit" href="contactus.php" class="btn btn-lg btn-gradient btn-primary btn-shadow">IOs</a>
             </div>
     </div>
 </div>

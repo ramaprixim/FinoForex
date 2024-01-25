@@ -43,7 +43,7 @@
                 <div class="inner-column">
                     <!--Sec Title-->
                     <div class="sec-title" style="padding-bottom: 75px;">
-                        <h2>Unlock the Potential: FinoForex's Comprehensive Guide to Forex Trading</h2>
+                        <h2>FinoForex's Comprehensive Guide to Forex Trading</h2>
                         <p>Dive into the expansive and dynamic realm of forex, the largest financial market that engages
                             in trillions of dollars in daily trades. This thrilling market not only presents itself as a
                             hub for trading but also unlocks countless opportunities for individuals to enhance and
@@ -152,19 +152,15 @@
     <img class="bg-shape1" src="images/home-banner/shape1.png" alt="">
 </section>
 
-
-
 <section class="content-inner bg-light icon-section section-wrapper2">
     <div class="container">
         <div class="row">
             <div class="col-xl-12 col-md-6 m-b60 wow fadeInUp" data-wow-delay="0.8s">
                 <div class="icon-bx-wraper style-3">
                     <div class="icon-content text-center">
-                        <p class="m-b0">
-                            Explore the world of forex trading with FinoForex. Contact FinnexMarkets to trade with
-                            confidence, or begin your journey by opening a demo account for practice. Unleash the
-                            potential of forex trading with FinoForex as your trusted partner.
-
+                        <p class="m-b0">Explore the world of forex trading with FinoForex. Contact FinnexMarkets to
+                            trade with confidence, or begin your journey by opening a demo account for practice. Unleash
+                            the potential of forex trading with FinoForex as your trusted partner.
                         </p>
                     </div>
                 </div>
@@ -173,5 +169,8 @@
     </div>
     <img class="bg-shape1" src="images/home-banner/shape1.png" alt="">
 </section>
+
+
+
 <!-- Footer -->
 <?php include("includes/footer.php"); ?>

@@ -1,10 +1,17 @@
+<style>
+	.lower-link{
+		padding-top: 40px;
+	}
+</style>
+
+
 <footer class="site-footer style-1" id="footer">
 		<img class="bg-shape1" src="images/home-banner/shape1.png" alt="">
 
 		<div class="footer-top background-luminosity" style="background-image: url(images/background/bg1.jpg)">
 			<div class="container">
 				<div class="row">
-					<div class="col-xl-4 col-lg-12 col-md-12 wow fadeInUp" data-wow-delay="0.2s">
+					<div class="col-xl-4 col-lg-4 col-md-12 wow fadeInUp" data-wow-delay="0.2s">
 						<div class="widget widget_about">
 							<div class="footer-logo logo-white">
 								<a href="index.html"><img src="images/logo-white.png" alt=""></a>
@@ -20,7 +27,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-xl-2 col-lg-4 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.4s">
+					<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.4s">
 						<div class="widget widget_services">
 							<h4 class="widget-title">Other Links</h4>
 							<ul>
@@ -32,46 +39,57 @@
 							</ul>
 						</div>
 					</div>
-					<div class="col-xl-3 col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="0.6s">
-						<div class="widget recent-posts-entry">
-							<h4 class="widget-title">Blog Posts</h4>
-							<div class="widget-post-bx">
-								<div class="widget-post clearfix">
-									<div class="dz-info">
-										<h6 class="title"><a href="blog-details.html">What is cryptocurrency and how does it work.</a></h6>
-										<span class="post-date"> JUNE 18, 2022</span>
-									</div>
-								</div>
-								<div class="post-separator"></div>
-								<div class="widget-post clearfix">
-									<div class="dz-info">
-										<h6 class="title"><a href="blog-details.html">A cryptocurrency is a digital currency.</a></h6>
-										<span class="post-date"> AUGUST 22, 2022</span>
-									</div>
-								</div>
-							</div>
+					<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.4s">
+						<div class="widget widget_services">
+							<h4 class="widget-title">Platforms</h4>
+							<ul>
+								<li><a href="MetaTrader-5-Windows.php">MetaTrader 5(Windows)</a></li>
+                                <li><a href="MetaTrader-5-mobile.php">MetaTrader 5(Mobile)</a></li>
+                                <li><a href="economic-calander.php">Economic Calender</a></li>
+                                <li><a href="economic-calculator.php">Economic Calculator</a></li>
+							</ul>
 						</div>
 					</div>
-					<div class="col-xl-3 col-lg-4 col-sm-12 wow fadeInUp" data-wow-delay="0.8s">
-						<div class="widget widget_locations">
-							<h4 class="widget-title">Locations</h4>
-							<div class="clearfix">
-								<h6 class="title">Washington</h6>
-								<p>1559 Alabama Ave SE, DC 20032, Washington, USA</p>
-								<img src="images/footer/world-map-with-flags1.png" alt="">
-							</div>
+					<div class="col-xl-2 col-lg-4 col-md-4 col-sm-6 wow fadeInUp " data-wow-delay="0.4s">
+						<div class="widget widget_services">
+							<h4 class="widget-title">Partners</h4>
+							<ul>
+								<li><a href="become-an-ib.php">Become An IB</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 wow fadeInUp lower-link" data-wow-delay="0.4s">
+						<div class="widget widget_services">
+							<h4 class="widget-title">Accounts</h4>
+							<ul>
+								<li><a href="compare-account-types.php">Compare Account Types</a></li>
+                                <li><a href="micro-account.php">Micro Account</a></li>
+                                <li><a href="mini-account.php">Mini Account</a></li>
+                                <li><a href="prime-account.php">Prime Account</a></li>
+                                <li><a href="luxury-account.php">Luxury Account</a></li>
+                                <li><a href="islamic-account.php">Islamic Account</a></li>
+                                <li><a href="deposit-methods.php">Deposit Methods</a></li>
+                                <li><a href="safety-of-funds.php">Safety Of Funds</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 wow fadeInUp lower-link" data-wow-delay="0.4s">
+						<div class="widget widget_services">
+							<h4 class="widget-title">Education</h4>
+							<ul>
+								<li><a href="glossary.php">Glossary</a></li>
+                                <li><a href="introduction-forex.php">Introduction To Forex</a></li>
+                                <li><a href="technical-analysis.php">Technical Analysis</a></li>
+                                <li><a href="fundamental-analysis.php">Fundamental Analysis</a></li>
+                                <li><a href="forex-trading.php">Forex Trading</a></li>
+                                <li><a href="expert-advisors.php">Expert Advisors</a></li>
+							</ul>
 						</div>
 					</div>
 				</div>
 			</div>
-
 		</div>
 		<!-- Footer Bottom Part -->
-		<!-- <div class="footer-bottom text-center">
-			<div class="container">
-				<span class="copyright-text">Copyright © 2022 <a href="https://dexignzone.com/" target="_blank">DexignZone</a>. All rights reserved.</span>
-			</div>
-		</div> -->
 	</footer>
 	<!-- Footer End -->
 

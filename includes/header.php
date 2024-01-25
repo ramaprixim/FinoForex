@@ -51,8 +51,8 @@
 
                 <!-- Website Logo -->
                 <div class="logo-header">
-                    <a href="index.html" class="logo-dark"><img src="images/logo.png" alt=""></a>
-                    <a href="index.html" class="logo-light"><img src="images/logo-white.png" alt=""></a>
+                    <a href="index.html" class="logo-dark"><img src="images/icons/fino forex black  logo.png" alt=""></a>
+                    <a href="index.html" class="logo-light"><img src="images/icons/fino forex logo .png" alt=""></a>
                 </div>
                 
                 <!-- Nav Toggle Button Strat -->
@@ -71,7 +71,7 @@
                     
                     <!-- Mobile Sidebar Logo -->
                     <div class="logo-header mostion">
-                        <a href="index.html" class="logo-dark"><img src="images/logo.png" alt=""></a>
+                        <a href="index.html" class="logo-dark"><img src="images/icons/fino forex black logo .png" alt=""></a>
                     </div>
                     
                     <!-- Navbar nav -->
@@ -80,6 +80,8 @@
                         <li><a href="#">ABOUT US</a>
                         <ul class="sub-menu">
                                 <li><a href="why-us.php">Why Us</a></li>
+                                <li><a href="faq.php">FAQ Page</a></li>
+
                             </ul></li>
                         <li><a href="#">ACCOUNTS</a>
                         <ul class="sub-menu">
@@ -88,9 +90,8 @@
                                 <li><a href="mini-account.php">Mini Account</a></li>
                                 <li><a href="prime-account.php">Prime Account</a></li>
                                 <li><a href="luxury-account.php">Luxury Account</a></li>
-                                <li><a href="islamic-account.php">Islamic</a></li>
+                                <li><a href="islamic-account.php">Islamic Account</a></li>
                                 <li><a href="deposit-methods.php">Deposit Methods</a></li>
-                                <li><a href="withdrawal-methods.php">Withdrawal Methods</a></li>
                                 <li><a href="safety-of-funds.php">Safety Of Funds</a></li>
                             </ul>
                        </li>

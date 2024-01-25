@@ -17,7 +17,7 @@
         <div class="container">
             <div class="dz-bnr-inr-entry">
                 <h1>Forex </h1>
-                <p class="text">Transfer USD, EUR, or Crypto and start trading today!</p>
+                <p class="text">An Introduction to Currency Trading</p>
                 <!-- Breadcrumb Row -->
                 <nav aria-label="breadcrumb" class="breadcrumb-row">
                     <ul class="breadcrumb">
@@ -44,7 +44,6 @@
                     <!--Sec Title-->
                     <div class="sec-title" style="padding-bottom: 15px;">
                         <h2>Embark On Your Forex Journey With FinoForex</h2>
-                        <h5>An Introduction to Currency Trading<h5>
                     </div>
                     <p class="list-style arrow">
                         Welcome to the world of forex trading, where Technical Analysis serves as the essential

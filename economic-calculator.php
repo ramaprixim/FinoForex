@@ -10,7 +10,8 @@
         <div class="container">
             <div class="dz-bnr-inr-entry">
                 <h1>Economic Calculator</h1>
-                <p class="text">Transfer USD, EUR, or Crypto and start trading today!</p>
+                <p class="text">Stay informed, track key financial events, and enhance your trading 
+</p>
                 <!-- Breadcrumb Row -->
                 <nav aria-label="breadcrumb" class="breadcrumb-row">
                     <ul class="breadcrumb">
@@ -29,7 +30,8 @@
 </div>
 
 <section>
-    <div class="container" style="padding-top: 60px;padding-bottom: 50px;display: flex; justify-content: center;">
+<h2 class="mt-4" style="text-align:center">Economic Calculator</h2>
+    <div class="container" style="padding-bottom:50px; padding-top:10px;display: flex; justify-content: center;">
         <div class="row">
             <div class="col-lg-2"></div>
             <div id="profit-calculator-556472">

@@ -12,7 +12,7 @@
         <div class="container">
             <div class="dz-bnr-inr-entry">
                 <h1>Why Us</h1>
-                <p class="text">Transfer USD, EUR, or Crypto and start trading today!</p>
+                <p class="text">Delivering customized solutions for traders worldwide. </p>
                 <!-- Breadcrumb Row -->
                 <nav aria-label="breadcrumb" class="breadcrumb-row">
                     <ul class="breadcrumb">
@@ -104,13 +104,6 @@
     </section>
 </div>
 
-<div class="container">
-    <div class="section-head">
-        <h6 class="title">In essence, FinoForex is more than a forex platform – it's a dynamic hub that combines
-            experience, innovation, and unwavering commitment to support success of our clients, partners, and
-            employees. Join us in shaping the future of online forex trading!</h6>
-    </div>
-</div>
 
 <!-- Footer -->
 <?php include("includes/footer.php"); ?>

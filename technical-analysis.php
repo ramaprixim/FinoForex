@@ -3,11 +3,10 @@
 
 <!-- Header -->
 <style>
-
-.content-inner{
-    padding-top: 20px;
-    padding-bottom: 20px;
-} 
+    .content-inner {
+        padding-top: 70px;
+        padding-bottom: 20px;
+    }
 </style>
 
 <!-- Page Content Start -->
@@ -16,7 +15,7 @@
         <div class="container">
             <div class="dz-bnr-inr-entry">
                 <h1>Technical analysis</h1>
-                <p class="text">Transfer USD, EUR, or Crypto and start trading today!</p>
+                <p class="text">Mastering Market Movements</p>
                 <!-- Breadcrumb Row -->
                 <nav aria-label="breadcrumb" class="breadcrumb-row">
                     <ul class="breadcrumb">
@@ -36,7 +35,7 @@
 
 
 
-<section class="welcome-section" style="padding-bottom:40px;padding-top: 80px;">
+<section class="welcome-section" style="padding-bottom:80px;padding-top: 80px;">
     <div class="container">
         <div class="row clearfix">
             <!--Content Column-->
@@ -45,7 +44,6 @@
                     <!--Sec Title-->
                     <div class="sec-title" style="padding-bottom: 15px;">
                         <h2>Guide to Technical Analysis in Forex Trading</h2>
-                        <h5>Mastering Market Movements<h5>
                     </div>
                     <p class="list-style arrow">
                         Welcome to the world of forex trading, where Technical Analysis serves as the essential
@@ -179,5 +177,6 @@
     </div>
     <img class="bg-shape1" src="images/home-banner/shape1.png" alt="">
 </section>
+
 <!-- Footer -->
 <?php include("includes/footer.php"); ?>

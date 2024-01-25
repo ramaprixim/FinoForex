@@ -10,7 +10,7 @@
         <div class="container">
             <div class="dz-bnr-inr-entry">
                 <h1>Micro Account</h1>
-                <p class="text">Transfer USD, EUR, or Crypto and start trading today!</p>
+                <p class="text">Tailored for New Traders and Smaller Volumes on MetaTrader 5</p>
                 <!-- Breadcrumb Row -->
                 <nav aria-label="breadcrumb" class="breadcrumb-row">
                     <ul class="breadcrumb">
