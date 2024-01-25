@@ -29,7 +29,7 @@
 					</div>
 					<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.4s">
 						<div class="widget widget_services">
-							<h4 class="widget-title">Other Links</h4>
+							<h4 class="widget-title">About Us</h4>
 							<ul>
 								<li><a href="why-us.php">Why Us</a></li>
                                 <li><a href="faq.php">FAQ Page</a></li>
