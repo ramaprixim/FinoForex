@@ -14,9 +14,9 @@
 					<div class="col-xl-4 col-lg-4 col-md-12 wow fadeInUp" data-wow-delay="0.2s">
 						<div class="widget widget_about">
 							<div class="footer-logo logo-white">
-								<a href="index.html"><img src="images/logo-white.png" alt=""></a>
+								<a href="index.html"><img src="images/icons/fino forex logo .png" alt=""></a>
 							</div>
-							<p>CryptoZone is a Crypto & Crypto Website by DexignZone lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</p>
+							<p>finoforex is most trustable company in investment industry.  We have better lnvetment services of all trading platforms.  finoforex are keeping funds safe and secure with better experince .</p>
 							<div class="dz-social-icon transparent space-10">
 								<ul>
 									<li><a target="_blank" class="fab fa-facebook-f" href="https://www.facebook.com/"></a></li>
