@@ -1,8 +1,8 @@
-<style>
+<!-- <style>
 	.lower-link{
 		padding-top: 40px;
 	}
-</style>
+</style> -->
 
 
 <footer class="site-footer style-1" id="footer">
@@ -11,7 +11,7 @@
 		<div class="footer-top background-luminosity" style="background-image: url(images/background/bg1.jpg)">
 			<div class="container">
 				<div class="row">
-					<div class="col-xl-4 col-lg-4 col-md-12 wow fadeInUp" data-wow-delay="0.2s">
+					<div class="col-xl-3 col-lg-4 col-md-12 wow fadeInUp" data-wow-delay="0.2s">
 						<div class="widget widget_about">
 							<div class="footer-logo logo-white">
 								<a href="index.html"><img src="images/icons/fino forex logo .png" alt=""></a>
@@ -31,26 +31,10 @@
 						<div class="widget widget_services">
 							<h4 class="widget-title">Other Links</h4>
 							<ul>
-								<li><a href="about-us.html">About Us</a></li>
-								<li><a href="pricing.html">Pricing Plan</a></li>
-								<li><a href="blog-list.html">Blog List</a></li>
-								<li><a href="blog-grid.html">Our Blogs</a></li>
-								<li><a href="contact-us.html">Contact Us</a></li>
+								<li><a href="why-us.php">Why Us</a></li>
+                                <li><a href="faq.php">FAQ Page</a></li>
 							</ul>
 						</div>
-					</div>
-					<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.4s">
-						<div class="widget widget_services">
-							<h4 class="widget-title">Platforms</h4>
-							<ul>
-								<li><a href="MetaTrader-5-Windows.php">MetaTrader 5(Windows)</a></li>
-                                <li><a href="MetaTrader-5-mobile.php">MetaTrader 5(Mobile)</a></li>
-                                <li><a href="economic-calander.php">Economic Calender</a></li>
-                                <li><a href="economic-calculator.php">Economic Calculator</a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="col-xl-2 col-lg-4 col-md-4 col-sm-6 wow fadeInUp " data-wow-delay="0.4s">
 						<div class="widget widget_services">
 							<h4 class="widget-title">Partners</h4>
 							<ul>

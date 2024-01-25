@@ -81,8 +81,8 @@
                         <ul class="sub-menu">
                                 <li><a href="why-us.php">Why Us</a></li>
                                 <li><a href="faq.php">FAQ Page</a></li>
-
-                            </ul></li>
+                            </ul>
+                        </li>
                         <li><a href="#">ACCOUNTS</a>
                         <ul class="sub-menu">
                                 <li><a href="compare-account-types.php">Compare Account Types</a></li>
