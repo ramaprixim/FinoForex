@@ -43,7 +43,7 @@
                             clients need us to go the extra mile. If you are a high volume (active) or high net worth
                             trader we are here to offer you the next level of service you expect.</p>
                     </div>
-                    <h2 class="text-align">Luxury Account</h2>
+                    <h2 class="text-align"></h2>
                     <table class="accountTable table-striped" id="keywords" cellspacing="0" cellpadding="0">
                         <thead>
                             <tr>
@@ -122,7 +122,6 @@
                             <a class="btn btn-lg btn-gradient btn-primary btn-shadow my-2" href="islamic-account.php">Islamic Account</a>
                             <a class="btn btn-lg btn-gradient btn-primary btn-shadow my-2" href="luxury-account.php">Luxury Account</a>
                             <a class="btn btn-lg btn-gradient btn-primary btn-shadow my-2" href="deposit-methods.php">Deposit</a>
-                            <a class="btn btn-lg btn-gradient btn-primary btn-shadow my-2" href="withdrawal-methods.php">Withdrawal</a>
                             <a class="btn btn-lg btn-gradient btn-primary btn-shadow my-2" href="safety-of-funds.php">Safety of funds</a>
                         </div>
                     </div>

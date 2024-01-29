@@ -106,7 +106,7 @@
 	<section class="content-inner bg-light icon-section section-wrapper2">
 		<div class="container">
 			<div class="section-head text-center">
-				<h2 class="title">Explore Excellence in Trading with <span class="text-primary">Finnex Markets</span>
+				<h2 class="title">Explore Excellence in Trading with FinoForex</span>
 				</h2>
 			</div>
 			<div class="row sp60">
@@ -197,7 +197,7 @@
 				<div class="inner-column">
 					<!--Sec Title-->
 					<div class="sec-title" style="padding-bottom: 15px;">
-						<h4 style="font-size: 2rem;">HOW TO DEPOSIT FUNDS TO A TRADING ACCOUNT</h4>
+						<h4 style="font-size: 2rem;">Unlock Financial Opportunities with FinoForex's MT5 Forex Trading Platforms</h4>
 					</div>
 					<div class="text" style="text-align:justify;font-size:20px;padding-bottom:5px;margin-bottom: 15px;">
 						Experience unparalleled trading excellence with our cutting-edge MT5 forex trading platforms,

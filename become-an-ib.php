@@ -80,7 +80,7 @@
                     </div> -->
 
                         <div class="form-group text-center col-lg-12 col-md-12 col-sm-12 mt-4">
-                            <button type="submit" class="theme-btn message-btn btn btn-primary">Submit</button>
+                            <a href="contactus.php" type="submit" class="theme-btn message-btn btn btn-primary">Submit</a>
                         </div>
                     </div>
                 </form>
@@ -88,5 +88,6 @@
         </div>
     </div>
 </section>
+
 <!-- Footer -->
 <?php include("includes/footer.php"); ?>

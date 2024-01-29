@@ -47,7 +47,7 @@
                             investors to trade smaller trade sizes and open an account with a lower initial deposit than a Classic account all from the
                              powerful MetaTrader 5 platform.</p>
                       </div>
-        <h2 class="text-align">Micro Account</h2>
+        <h2 class="text-align"></h2>
                     <table class="accountTable table-striped" id="keywords" cellspacing="0" cellpadding="0">
                         <thead>
                             <tr>
@@ -126,7 +126,6 @@
                                 <a class="btn btn-lg btn-gradient btn-primary btn-shadow my-2" href="islamic-account.php">Islamic Account</a>
                                 <a class="btn btn-lg btn-gradient btn-primary btn-shadow my-2" href="luxury-account.php">Luxury Account</a>
                                 <a class="btn btn-lg btn-gradient btn-primary btn-shadow my-2" href="deposit-methods.php">Deposit</a>
-                                <a class="btn btn-lg btn-gradient btn-primary btn-shadow my-2" href="withdrawal-methods.php">Withdrawal</a>
                                 <a class="btn btn-lg btn-gradient btn-primary btn-shadow my-2" href="safety-of-funds.php">Safety of funds</a>
                             </div>
                     </div>
