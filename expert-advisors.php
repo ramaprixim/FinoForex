@@ -58,8 +58,8 @@
             <div class="image-column col-lg-6 col-md-12 col-sm-12">
                 <div class="inner-column">
                     <div class="image">
-                        <img src="https://finnexmarkets.com/image/tading-account.jpg" alt=""
-                            style="width: 1200px;height: 325px;">
+                        <img src="images/about/education - Expert Advisors.png" alt=""
+                            style="margin-left: 60px;">
                     </div>
                 </div>
             </div>

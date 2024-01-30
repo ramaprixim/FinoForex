@@ -205,8 +205,9 @@
                                         class="icon">+</span>
                                 </button>
                                 <div class="accordion-content">
-                                    <p>FinoForex provides system requirements for MT5 Windows on their website,
-                                        outlining the specifications needed for optimal performance on your computer.
+                                    <p>
+                                        Remember to check FinoForex's official website or contact their customer support
+                                        for the most accurate and up-to-date information.
                                     </p>
                                 </div>
                             </div>
@@ -214,7 +215,7 @@
                     </div>
                 </div>
             </div>
-            
+
 
         </section>
     </div>

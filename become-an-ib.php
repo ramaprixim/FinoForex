@@ -67,7 +67,7 @@
 
                         <div class="form-group col-lg-12 col-md-6 col-sm-12 mb-4">
                             <input class="form-control" type="text" name="referals" value=""
-                                placeholder="Number of Referals" id="referals" required="required">
+                                placeholder="Number of Referrals" id="referals" required="required">
                         </div>
 
                         <div class="form-group col-lg-12 col-md-6 col-sm-12">

@@ -63,7 +63,7 @@
             <div class="col-xl-6 col-md-6 m-b60">
                 <!--Image Column-->
                 <div class="image">
-                    <img src="https://finnexmarkets.com/image/tading-account.jpg" alt="">
+                    <img src="images/about/platforms - MetaTrader5 Windows.png" alt="" style="margin-left: 6%;">
                 </div>
             </div>
         </div>
@@ -101,8 +101,7 @@
                 <div class="icon-bx-wraper style-2">
                     <div class="icon-content">
                         <h4 class="title">Empowering Your Trading</h4>
-                        <p>FinoFinex's MT5 equips you with essential tools, facilitating the development and
-                            implementation of personalized trading strategies.</p>
+                        <p>Elevate trading with FinoFinex & MetaTrader 5- Where sophistication meets user-friendliness, prioritizing your success.</p>
                     </div>
                 </div>
             </div>

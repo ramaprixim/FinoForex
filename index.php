@@ -36,7 +36,7 @@
 					<div class="col-lg-6 col-md-6 m-b30 wow fadeInUp" data-wow-delay="0.2s">
 						<div class="icon-bx-wraper style-1 box-hover">
 							<div class="icon-media">
-								<img src="images/coins/coin4.png" alt="">
+								<img src="images/coins/trading.png" alt="">
 								<div class="icon-info mx-4">
 									<h5 class="title">MetaTrader 5 Mobile </h5>
 									<p>Trade on-the-go with advanced charts, real-time quotes, and instant order execution for a seamless mobile trading experience.</p>
@@ -47,7 +47,7 @@
 					<div class="col-lg-6 col-md-6 m-b30 wow fadeInUp" data-wow-delay="0.4s">
 						<div class="icon-bx-wraper style-1 box-hover">
 							<div class="icon-media">
-								<img src="images/coins/coin3.png" alt="">
+								<img src="images/coins//stock-exchange.png" alt="">
 								<div class="icon-info mx-4">
 									<h5 class="title">MetaTrader 5 Windows</h5>
 									<p>Advanced trading platform with powerful charting tools, real-time quotes, and customizable features for optimal trading experience.</p>
@@ -193,7 +193,7 @@
 	<div class="container">
 		<div class="row clearfix">
 			<!--Content Column-->
-			<div class="content-column col-lg-7 col-md-12 col-sm-12">
+			<div class="content-column col-lg-6 col-md-12 col-sm-12">
 				<div class="inner-column">
 					<!--Sec Title-->
 					<div class="sec-title" style="padding-bottom: 15px;">
@@ -223,11 +223,11 @@
 			</div>
 
 			<!--Image Column-->
-			<div class="image-column col-lg-5 col-md-12 col-sm-12">
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
 				<div class="inner-column">
 					<div class="image">
-						<img src="https://finnexmarkets.com/image/tading-account.jpg" alt=""
-							style="width: 500px;height: 325px;">
+						<img src="images/about/home  image.png" alt=""
+							style="width: 800px;height: 600px; margin-left: 80px">
 					</div>
 				</div>
 			</div>

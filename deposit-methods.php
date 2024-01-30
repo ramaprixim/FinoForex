@@ -75,8 +75,8 @@
             <div class="image-column col-lg-5 col-md-12 col-sm-12">
                 <div class="inner-column">
                     <div class="image">
-                        <img src="https://finnexmarkets.com/image/tading-account.jpg" alt=""
-                            style="width: 500px;height: 325px;">
+                        <img src="images/about/Deposit Funds (1).png" alt=""
+                            style="width: 600px;height: 500px;">
                     </div>
                 </div>
             </div>
