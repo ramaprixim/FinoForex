@@ -199,7 +199,7 @@
 					<div class="sec-title" style="padding-bottom: 15px;">
 						<h4 style="font-size: 2rem;">HOW TO DEPOSIT FUNDS TO A TRADING ACCOUNT</h4>
 					</div>
-					<div class="text" style="text-align:justify;font-size:20px;padding-bottom:5px;margin-bottom: 15px;">
+					<div class="text">
 						Experience unparalleled trading excellence with our cutting-edge MT5 forex trading platforms,
 						tailored for optimal performance and strategic success.</div>
 					<ul class="list-style arrow">
