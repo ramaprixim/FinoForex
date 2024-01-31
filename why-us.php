@@ -90,10 +90,10 @@
                         </div> -->
                         <div class="icon-content">
                             <h2 class="title">Our Values</h2>
-                            <p class="m-b0">Integrity, security, innovation, and success form the cornerstone of
-                                FinoForex. We've cultivated a brokerage where clients, business partners, and employees
-                                thrive. Our dedication is unwavering, focusing on maintaining the highest level of
-                                customer support to provide services that align with the needs of our valued clients.
+                            <p class="m-b0">In essence, FinoForex is more than a forex platform – it's a dynamic hub
+                                that combines experience, innovation, and unwavering commitment to support the success
+                                of our clients, partners, and employees. Join us in shaping the future of online forex
+                                trading !
                             </p>
                         </div>
                     </div>

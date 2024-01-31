@@ -47,12 +47,10 @@
 
                     </div>
                     <p class="list-style arrow">
-                        Welcome to the world of forex trading, where Technical Analysis serves as the essential
-                        framework for understanding price movements. This analytical approach allows traders to navigate
-                        the dynamic market by studying historical price data to gauge current conditions and anticipate
-                        potential future price movements. The core principle underlying technical analysis is the belief
-                        that all relevant market information is encapsulated in price, making price action the key
-                        element for making informed trading decisions.
+                        Welcome to the world of Fundamental Analysis, a strategic exploration of economic, social, and
+                        political factors shaping financial assets in the forex market. By dissecting these influences,
+                        we gain profound insights into the intricate dance of supply and demand, the driving force
+                        behind currency exchange rates. Let's navigate this insightful journey.
                     </p>
                 </div>
             </div>
@@ -61,104 +59,54 @@
             <div class="image-column col-lg-6 col-md-12 col-sm-12">
                 <div class="inner-column">
                     <div class="image">
-                        <img src="https://finnexmarkets.com/image/tading-account.jpg" alt=""
-                            style="width: 1200px;height: 325px;">
+                        <img src="images/about/education - Fundamental Analysis.png" alt=""
+                            style="margin-left: 60px;">
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
+`
+<div class="container">
+    <div class="row">
 
-<section class="content-inner bg-light icon-section section-wrapper2">
-    <div class="container">
-        <div class="section-head text-center">
+        <div class="col-lg-6 m-b30">
+            <div class="icon-bx-wraper style-2">
+                <div class="icon-content">
+                    <h4 class="title">Supply and Demand Basics</h4>
+                    <p>Decipher how economic forces shape forex supply and demand.</p>
+                </div>
+            </div>
         </div>
-        <div class="row sp60">
-            <div class="col-xl-4 col-md-6 m-b60 wow fadeInUp" data-wow-delay="0.2s"
-                style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                <div class="icon-bx-wraper style-3 text-center">
-                    <div class="icon-media">
-                        <img src="images/icons/icon9.svg" alt="">
-                    </div>
-                    <div class="icon-content">
-                        <h4 class="title">Unlocking Price Movements</h4>
-                        <p class="m-b0">Explore how historical price data reflects all relevant market information,
-                            making price action a crucial factor for traders.</p>
-                    </div>
+        <div class="col-lg-6 m-b30">
+            <div class="icon-bx-wraper style-2">
+                <div class="icon-content">
+                    <h4 class="title">
+                        Economic Health Check
+                    </h4>
+                    <p>Examine factors revealing a nation's economic health for trading.</p>
                 </div>
             </div>
-            <div class="col-xl-4 col-md-6 m-b60 wow fadeInUp" data-wow-delay="0.4s"
-                style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-                <div class="icon-bx-wraper style-3 text-center">
-                    <div class="icon-media">
-                        <img src="images/icons/icon10.svg" alt="">
-                    </div>
-                    <div class="icon-content">
-                        <h4 class="title">Trade Ideas Rooted in History</h4>
-                        <p class="m-b0">Follow our experts as they explore patterns formed in the past, offering
-                            valuable trade ideas based on historical market behavior.</p>
-                    </div>
+        </div>
+        <div class="col-lg-6 m-b30">
+            <div class="icon-bx-wraper style-2">
+                <div class="icon-content">
+                    <h4 class="title">The Strong Economy Effect</h4>
+                    <p>Strong economy equals a robust, sought-after national currency</p>
                 </div>
             </div>
-            <div class="col-xl-4 col-md-6 m-b60 wow fadeInUp" data-wow-delay="0.6s"
-                style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
-                <div class="icon-bx-wraper style-3 text-center">
-                    <div class="icon-media">
-                        <img src="images/icons/icon11.svg" alt="">
-                    </div>
-                    <div class="icon-content">
-                        <h4 class="title">The Power of Chart Analysis</h4>
-                        <p class="m-b0">Discover the strength of chart analysis at FinoForex, where visual
-                            representations guide traders in spotting trends and lucrative opportunities.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-md-6 m-b60 wow fadeInUp" data-wow-delay="0.8s"
-                style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
-                <div class="icon-bx-wraper style-3 text-center">
-                    <div class="icon-media">
-                        <img src="images/icons/icon12.svg" alt="">
-                    </div>
-                    <div class="icon-content">
-                        <h4 class="title">Expertise Meets Subjectivity</h4>
-                        <p class="m-b0">Recognize the subjective nature of technical analysis, where two individuals may
-                            interpret the same data differently.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-md-6 m-b60 wow fadeInUp" data-wow-delay="1.0s"
-                style="visibility: visible; animation-delay: 1s; animation-name: fadeInUp;">
-                <div class="icon-bx-wraper style-3 text-center">
-                    <div class="icon-media">
-                        <img src="images/icons/icon13.svg" alt="">
-                    </div>
-                    <div class="icon-content">
-                        <h4 class="title">Nuances of Market Interpretation
-                        </h4>
-                        <p class="m-b0">Navigate the nuanced landscape of market interpretation, understanding how
-                            traders employ diverse strategies based on technical analysis.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-md-6 m-b60 wow fadeInUp" data-wow-delay="1.0s"
-                style="visibility: visible; animation-delay: 1s; animation-name: fadeInUp;">
-                <div class="icon-bx-wraper style-3 text-center">
-                    <div class="icon-media">
-                        <img src="images/icons/icon13.svg" alt="">
-                    </div>
-                    <div class="icon-content">
-                        <h4 class="title">Dynamic Trading Strategies
-                        </h4>
-                        <p class="m-b0">Explore the dynamic strategies crafted by traders at FinoForex, where technical
-                            analysis becomes a cornerstone for adapting to ever-changing market conditions.</p>
-                    </div>
+        </div>
+        <div class="col-lg-6 m-b30">
+            <div class="icon-bx-wraper style-2">
+                <div class="icon-content">
+                    <h4 class="title">Economy Comparison</h4>
+                    <p>Compare thriving and challenged economies for informed trading decisions.</p>
                 </div>
             </div>
         </div>
     </div>
-    <img class="bg-shape1" src="images/home-banner/shape1.png" alt="">
-</section>
+</div>
 
 
 <section class="content-inner bg-light icon-section section-wrapper2">

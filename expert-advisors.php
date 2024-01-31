@@ -17,7 +17,7 @@
         <div class="container">
             <div class="dz-bnr-inr-entry">
                 <h1>Expert Advisors</h1>
-                <p class="text">Transfer USD, EUR, or Crypto and start trading today!</p>
+                <p class="text">Revolutionize Your Trading with Automated Precision</p>
                 <!-- Breadcrumb Row -->
                 <nav aria-label="breadcrumb" class="breadcrumb-row">
                     <ul class="breadcrumb">
@@ -45,7 +45,6 @@
                     <!--Sec Title-->
                     <div class="sec-title" style="padding-bottom: 15px;">
                         <h2>Unleashing the Power of Expert Advisors in Forex</h2>
-                        <h5>Revolutionize Your Trading with Automated Precision</h5>
                     </div>
                     <p class="list-style arrow">
                         Explore the power of Expert Advisors (EAs) designed for MetaTrader 5 and MetaTrader 4 platforms.
@@ -59,8 +58,8 @@
             <div class="image-column col-lg-6 col-md-12 col-sm-12">
                 <div class="inner-column">
                     <div class="image">
-                        <img src="https://finnexmarkets.com/image/tading-account.jpg" alt=""
-                            style="width: 1200px;height: 325px;">
+                        <img src="images/about/education - Expert Advisors.png" alt=""
+                            style="margin-left: 60px;">
                     </div>
                 </div>
             </div>

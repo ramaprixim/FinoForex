@@ -59,8 +59,8 @@
             <div class="image-column col-lg-6 col-md-12 col-sm-12">
                 <div class="inner-column" style="margin-top:50px">
                     <div class="image">
-                        <img src="https://finnexmarkets.com/image/tading-account.jpg" alt=""
-                            style="width: 1200px;height: 325px;">
+                        <img src="images/about/education - Forex Trading first image.png" alt=""
+                            style="margin-left: 60px;">
                     </div>
                 </div>
             </div>
@@ -78,8 +78,8 @@
             <div class="image-column col-lg-6 col-md-12 col-sm-12">
                 <div class="inner-column" style="margin-top:50px">
                     <div class="image">
-                        <img src="https://finnexmarkets.com/image/tading-account.jpg" alt=""
-                            style="width: 1200px;height: 325px;">
+                        <img src="images/about/education - Forex Trading second image.png" alt=""
+                            style="">
                     </div>
                 </div>
             </div>

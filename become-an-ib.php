@@ -67,7 +67,7 @@
 
                         <div class="form-group col-lg-12 col-md-6 col-sm-12 mb-4">
                             <input class="form-control" type="text" name="referals" value=""
-                                placeholder="Number of Referals" id="referals" required="required">
+                                placeholder="Number of Referrals" id="referals" required="required">
                         </div>
 
                         <div class="form-group col-lg-12 col-md-6 col-sm-12">
@@ -80,7 +80,7 @@
                     </div> -->
 
                         <div class="form-group text-center col-lg-12 col-md-12 col-sm-12 mt-4">
-                            <button type="submit" class="theme-btn message-btn btn btn-primary">Submit</button>
+                            <a href="contactus.php" type="submit" class="theme-btn message-btn btn btn-primary">Submit</a>
                         </div>
                     </div>
                 </form>
@@ -88,5 +88,6 @@
         </div>
     </div>
 </section>
+
 <!-- Footer -->
 <?php include("includes/footer.php"); ?>

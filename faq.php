@@ -106,10 +106,6 @@
                                     <p>FinoForex is a leading financial services company that provides a sophisticated
                                         trading platform, including the popular MetaTrader 5 (MT5) for both mobile and
                                         Windows.
-                                        What trading platforms does FinoForex offer?
-                                        <br>
-                                        FinoForex offers the MetaTrader 5 (MT5) platform for both mobile devices (iOS
-                                        and Android) and Windows operating systems.
                                     </p>
                                 </div>
                             </div>
@@ -209,8 +205,9 @@
                                         class="icon">+</span>
                                 </button>
                                 <div class="accordion-content">
-                                    <p>FinoForex provides system requirements for MT5 Windows on their website,
-                                        outlining the specifications needed for optimal performance on your computer.
+                                    <p>
+                                        Remember to check FinoForex's official website or contact their customer support
+                                        for the most accurate and up-to-date information.
                                     </p>
                                 </div>
                             </div>
@@ -218,7 +215,7 @@
                     </div>
                 </div>
             </div>
-            
+
 
         </section>
     </div>

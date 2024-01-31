@@ -43,6 +43,8 @@
                 <div class="icon-bx-wraper">
                     <div class="icon-content">
                         <h2 class="title">FinoForex's Mobile Trading</h2>
+                        <br>
+                        <br>
                         <p class="m-b0">Trade with convenience and flexibility using FinoForex's mobile trading
                             platform. With our MT5 platform, accessible on iPhone, iPad, Android smartphones, and
                             tablets, you can execute trades with a simple click, enabling you to manage your account
@@ -59,7 +61,7 @@
             <div class="col-xl-6 col-md-6 m-b60">
                 <!--Image Column-->
                 <div class="image">
-                    <img src="https://finnexmarkets.com/image/tading-account.jpg" alt="">
+                    <img src="images/about/platforms - MetaTrader5 Mobile.png" alt="" style="margin-left: 60px;">
                 </div>
             </div>
         </div>
